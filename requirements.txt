@@ -1,5 +1,4 @@
 opencv-python
-jupyter
 matplotlib
 pandas
 numpy
@@ -13,3 +12,4 @@ h5py
 ipykernel
 bokeh
 pickleshare
+Cython
